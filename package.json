@@ -1,0 +1,17 @@
+{
+  "name": "address_mapper",
+  "version": "0.2.3",
+  "description": "get province, city and district info from a piece of address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yinghan Ma",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.0",
+    "jieba": "^1.0.0",
+    "node-gyp": "^4.0.0",
+    "nodejieba": "^2.3.1"
+  }
+}
