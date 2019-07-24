@@ -5,5 +5,5 @@ This is a chinese address mapper which can auto fill the missing field of a piec
 ```javascript
 const adrmap = require('address_mapper');
 adrmap.init()
-adrmap.transform('xxxxx')  // => this will return the [province, city] of this                                    //  address in an array
+adrmap.transform('xxxxx')  // => this will return the [province, city] of this address in an array
 ```

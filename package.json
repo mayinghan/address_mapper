@@ -1,6 +1,6 @@
 {
   "name": "address_mapper",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "get province, city and district info from a piece of address",
   "main": "index.js",
   "scripts": {
