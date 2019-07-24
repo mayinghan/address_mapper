@@ -1,10 +1,14 @@
 {
   "name": "address_mapper",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "description": "get province, city and district info from a piece of address",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayinghan/address_mapper.git"
   },
   "author": "Yinghan Ma",
   "license": "ISC",
